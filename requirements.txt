@@ -9,3 +9,4 @@ numpy
 pydantic-settings
 redis[async]
 snakeviz
+prometheus_fastapi_instrumentator
